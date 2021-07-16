@@ -1,0 +1,12 @@
+{
+    "name": "n3xt0r/apiclient-mailchimp",
+    "type": "library",
+    "license": "GNUv3",
+    "autoload": {
+        "psr-4": {
+            "N3xt0r\\ApiclientMailchimp\\": "src/"
+        }
+    },
+    "minimum-stability": "stable",
+    "require": {}
+}
